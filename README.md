@@ -18,10 +18,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a **BS Computer Science graduate** from Thal University Bhakkar with a passion for building clean, functional web applications. I specialize in **frontend development** and have hands-on experience with the full MERN stack.
 
-- 🎓 BS Computer Science — Thal University Bhakkar
-- 💼 3 months frontend development experience at **CodesVista**
+
+- 💼 Frontend development experience at **CodesVista**
 - 🏆 MERN Stack certified — **NAVTTC Government Training Program**
 - 🔭 Currently building AI-powered and full-stack web projects
 - 🌱 Always learning — currently exploring **Next.js** and **TypeScript**
